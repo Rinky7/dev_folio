@@ -23,10 +23,10 @@ const greeting = {
   username: "Shreeya Kankandula",
   title: "Hi all, I'm Shreeya",
   subTitle: emoji(
-    "A passionate Product Manager and Full Stack Developer 🚀 with a knack for enhancing user experiences and streamlining backend processes. Skilled in leveraging Agile methodologies to deliver cutting-edge web and mobile applications, from ideation to launch."
+    "A passionate Business Analyst and Full Stack Java Developer 🚀 with a knack for enhancing user experiences and streamlining backend processes. Skilled in leveraging Agile methodologies to deliver cutting-edge web and mobile applications, from ideation to launch."
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1gWB8jKHws9_dgN2z_VMLJqDE8qfQhXPs/edit?usp=drive_link&ouid=115628144120075725407&rtpof=true&sd=true", // Set to empty to hide the button
+    "https://1drv.ms/w/s!AkNt8Cm9PVKUgZkOZWVLSrANDeU7MA?e=ZNiqtS", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -41,7 +41,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "A MULTI-FACETED PRODUCT MANAGER AND DEVELOPER WHO THRIVES ON CHALLENGE AND INNOVATION",
+  subTitle: "A MULTI-FACETED SCRUM MASTER, BUSINESS ANALYST AND DEVELOPER WHO THRIVES ON CHALLENGE AND INNOVATION",
   skills: [
     emoji(
       "⚡ Enhance digital experiences by integrating seamless front and backend functionalities"
@@ -126,7 +126,7 @@ const techStack = {
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "75%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -138,18 +138,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Product Manager",
-      company: "Cognizant, Chicago",
+      role: "Scrum Master / Business Analyst",
+      company: "Molina Healthcare, Chicago",
       companylogo: require("./assets/images/cognizantLogo.jpeg"),
       date: "January 2023 - Present",
-      desc: "Spearheaded the enhancement of Molina Healthcare's Medicare Advantage application, achieving a 25% increase in efficiency and user satisfaction by integrating front and back-end components seamlessly. Led the development of a user-friendly transaction flow portal utilizing Kendo UI MVVM and Ajax, delivering a responsive UI. Collaborated closely with Agile teams to define sprint goals, prioritize backlogs, and release MVPs, focusing on continuous improvement in delivery processes and product success."
+      desc: "As a Scrum Master and Business Analyst, I developed a responsive transaction flow portal using Kendo UI, MVVM, and Ajax, and managed daily tasks like regression testing and content management in AEM and Contentful. I was instrumental in gathering requirements, maintaining project documentation with tools like Airtable and Rally, and facilitating coordination between Agile, SAFe teams, and stakeholders to drive strategic alignment and project success"
     },
     {
-      role: "Full Stack Software Developer",
+      role: "Full Stack Java Developer",
       company: "Bectran Inc, Chicago",
       companylogo: require("./assets/images/bectranLogo.jpeg"),
       date: "July 2022 - December 2022",
-      desc: "Engineered and automated RESTful services using Spring-boot and Postman, enhancing API reliability and reducing manual testing efforts by 25%. Delivered a complete front-end application in NodeJS, JavaScript, HTML5, CSS3, Bootstrap 4, Angular 10. Optimized application deployment using Kubernetes and Jenkins, achieving 100% successful deployments on AWS."
+      desc: "As a Full Stack Java Developer, I engineered and automated RESTful services using Spring Boot and Postman, improving API reliability and reducing manual testing by 25%. I delivered a complete front-end application using NodeJS, JavaScript, HTML5, CSS3, Bootstrap 4, and Angular 10. Additionally, I implemented RESTful services with Spring Boot to handle JSON data efficiently and optimized deployment using Kubernetes and Jenkins, achieving flawless deployments on AWS and providing round-the-clock application support"
     },
     {
       role: "Computer Specialist",
