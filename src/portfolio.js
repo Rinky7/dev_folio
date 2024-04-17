@@ -140,7 +140,7 @@ const workExperiences = {
     {
       role: "Scrum Master / Business Analyst",
       company: "Molina Healthcare, Chicago",
-      companylogo: require("./assets/images/molinahealthcareLogo.png"),
+      companylogo: require("./assets/images/molinahealthcare.png"),
       date: "January 2023 - Present",
       desc: "As a Scrum Master and Business Analyst, I developed a responsive transaction flow portal using Kendo UI, MVVM, and Ajax, and managed daily tasks like regression testing and content management in AEM and Contentful. I was instrumental in gathering requirements, maintaining project documentation with tools like Airtable and Rally, and facilitating coordination between Agile, SAFe teams, and stakeholders to drive strategic alignment and project success"
     },
