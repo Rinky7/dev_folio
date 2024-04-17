@@ -161,9 +161,9 @@ const workExperiences = {
     {
       role: "Business Analyst",
       company: "Realiable Software's, Michigan",
-      companylogo: require("./assets/images/epicLogo.jpg"),
+      companylogo: require("./assets/images/Reliable pic.jpeg"),
       date: "May 2020- June 2021",
-      desc: "Employed SQL, Python, and Excel for data analysis, enhancing process efficiency and accelerating project delivery by 20%. Developed Restful API with Django, interacting with external APIs for customer information management. Built Admin User Interface using ReactJS."
+      desc: "As a Business Analyst, I conducted detailed data analyses using SQL and Excel to enhance process efficiency, increasing project delivery speed by 20%. I spearheaded the creation of a customer management system using a RESTful API, improving data integration. I collaborated with teams to gather requirements and manage projects with JIRA and Confluence, ensuring alignment with business goals. Additionally, I developed an efficient admin interface with SharePoint and AEM to streamline customer service operations."
     }
   ]
 };
