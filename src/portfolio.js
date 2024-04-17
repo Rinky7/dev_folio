@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Business Analyst and Full Stack Java Developer 🚀 with a knack for enhancing user experiences and streamlining backend processes. Skilled in leveraging Agile methodologies to deliver cutting-edge web and mobile applications, from ideation to launch."
   ),
   resumeLink:
-    "https://1drv.ms/w/s!AkNt8Cm9PVKUgZkOZWVLSrANDeU7MA?e=Ngw4kX", // Set to empty to hide the button
+    "https://1drv.ms/w/s!AkNt8Cm9PVKUgZkOZWVLSrANDeU7MA?e=i1nYbh", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
