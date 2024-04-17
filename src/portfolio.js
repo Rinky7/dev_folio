@@ -140,7 +140,7 @@ const workExperiences = {
     {
       role: "Scrum Master / Business Analyst",
       company: "Molina Healthcare, Chicago",
-      companylogo: require("./assets/images/cognizantLogo.jpeg"),
+      companylogo: require("./assets/images/molinahealthcareLogo.jpeg"),
       date: "January 2023 - Present",
       desc: "As a Scrum Master and Business Analyst, I developed a responsive transaction flow portal using Kendo UI, MVVM, and Ajax, and managed daily tasks like regression testing and content management in AEM and Contentful. I was instrumental in gathering requirements, maintaining project documentation with tools like Airtable and Rally, and facilitating coordination between Agile, SAFe teams, and stakeholders to drive strategic alignment and project success"
     },
@@ -152,17 +152,17 @@ const workExperiences = {
       desc: "As a Full Stack Java Developer, I engineered and automated RESTful services using Spring Boot and Postman, improving API reliability and reducing manual testing by 25%. I delivered a complete front-end application using NodeJS, JavaScript, HTML5, CSS3, Bootstrap 4, and Angular 10. Additionally, I implemented RESTful services with Spring Boot to handle JSON data efficiently and optimized deployment using Kubernetes and Jenkins, achieving flawless deployments on AWS and providing round-the-clock application support"
     },
     {
-      role: "Computer Specialist",
+      role: "Business Analyst",
       company: "UIC, Chicago",
       companylogo: require("./assets/images/uicLogo.png"),
       date: "May 2021 - May 2022",
-      desc: "Served as the primary technical liaison for a diverse user base of 500+ faculty, staff, and students, addressing various technology-related inquiries. Led the design and modification of software applications, leveraging AWS services to deploy, debug, and monitor web applications. Spearheaded the documentation of 10+ REST API endpoints using Swagger2."
+      desc: "As a Business Analyst, I utilized Tableau and Power BI to support over 500 faculty, staff, and students, addressing diverse technology needs. I led software development using Agile methodologies, tailoring solutions to enhance operational efficiency. Additionally, I managed AWS services like EC2 and Lambda, focusing on deployment, troubleshooting, and performance monitoring to support web application functionality"
     },
     {
-      role: "Web Application Developer",
-      company: "Epic, Wisconsin",
+      role: "Business Analyst",
+      company: "Realiable Software's, Michigan",
       companylogo: require("./assets/images/epicLogo.jpg"),
-      date: "May 2020- January 2021",
+      date: "May 2020- June 2021",
       desc: "Employed SQL, Python, and Excel for data analysis, enhancing process efficiency and accelerating project delivery by 20%. Developed Restful API with Django, interacting with external APIs for customer information management. Built Admin User Interface using ReactJS."
     }
   ]
